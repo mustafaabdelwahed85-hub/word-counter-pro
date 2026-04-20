@@ -1,0 +1,4 @@
+NLP (NLTK / spaCy)
+Arabic NLP enhancement
+Drag & Drop GUI
+Charts & analytics dashboard
